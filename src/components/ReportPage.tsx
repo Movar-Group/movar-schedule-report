@@ -44,7 +44,7 @@ interface LookAheadActivity {
   task_type: string;
 }
 
-const MOVAR_LOGO_URL = '/movar-logo.png';
+const MOVAR_LOGO_URL = '/movar-reply-logo-inverted.svg';
 
 type DashboardView = 'overview' | 'analysis' | 'register';
 	export function ReportPage() {
